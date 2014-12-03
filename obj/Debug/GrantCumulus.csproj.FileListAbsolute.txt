@@ -4,3 +4,9 @@ C:\Users\caturner\Documents\Visual Studio 2013\Projects\GrantCumulus\GrantCumulu
 C:\Users\caturner\Documents\Visual Studio 2013\Projects\GrantCumulus\GrantCumulus\obj\Debug\GrantCumulus.csprojResolveAssemblyReference.cache
 C:\Users\caturner\Documents\Visual Studio 2013\Projects\GrantCumulus\GrantCumulus\obj\Debug\GrantCumulus.dll
 C:\Users\caturner\Documents\Visual Studio 2013\Projects\GrantCumulus\GrantCumulus\obj\Debug\GrantCumulus.pdb
+C:\Users\caturner\Documents\GitHub\grantcumulus\bin\GrantCumulus.dll.config
+C:\Users\caturner\Documents\GitHub\grantcumulus\bin\GrantCumulus.dll
+C:\Users\caturner\Documents\GitHub\grantcumulus\bin\GrantCumulus.pdb
+C:\Users\caturner\Documents\GitHub\grantcumulus\obj\Debug\GrantCumulus.csprojResolveAssemblyReference.cache
+C:\Users\caturner\Documents\GitHub\grantcumulus\obj\Debug\GrantCumulus.dll
+C:\Users\caturner\Documents\GitHub\grantcumulus\obj\Debug\GrantCumulus.pdb
